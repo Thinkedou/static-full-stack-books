@@ -1,6 +1,7 @@
 # Vue3 - Projet Full-Stack Crud - 
  
 Objectif: Développer une petite admin avec toutes les opérations CRUD 
+
 Utilisation de Pinia & Ky (ou Axios) recommandé
   
 # Le front
@@ -12,6 +13,7 @@ npm init vue@latest nom-du-projet
   
 
 Installez toutes les dépendances nécessaires pour avoir une vue au plus près de la maquette html/css
+
 Découpez ensuite votre projet en composants
 
 # L'api
