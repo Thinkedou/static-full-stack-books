@@ -49,6 +49,6 @@ Rappel:
 
 - La liste des livres sur la page d'admin list
 
-- L'édition et la création d'un livre
+- L'édition et la création d'un livre (deux routes ou une seule)
 
 - La suppression d'un livre
